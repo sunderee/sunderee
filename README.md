@@ -7,16 +7,6 @@
 
 - 💬 Ask me about **Flutter, native Android development (Kotlin), Nest.js, React, Docker...**
 
-- 📫 How to reach me **peteralex.developer@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/peteralexbizjak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="peteralexbizjak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter-aleksander-bizjak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="peter-aleksander-bizjak" height="30" width="40" /></a>
-<a href="https://medium.com/@peteraleksanderbizjak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@peteraleksanderbizjak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucoxofjakjvhg1vbv4gu0zrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucoxofjakjvhg1vbv4gu0zrw" height="30" width="40" /></a>
-</p>
-
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
