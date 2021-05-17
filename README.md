@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/peteralexbizjak" target="blank"><img src="https://img.shields.io/twitter/follow/peteralexbizjak?logo=twitter&style=for-the-badge" alt="peteralexbizjak" /></a> </p>
 
-- 📝 I regularly write articles on [https://peteraleksanderbizjak.medium.com/](https://peteraleksanderbizjak.medium.com/)
+- 📝 I regularly write articles on [Medium](https://peteraleksanderbizjak.medium.com/)
 
 - 💬 Ask me about **Flutter, native Android development (Kotlin), Nest.js, React, Docker...**
 
