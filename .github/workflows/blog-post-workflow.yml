@@ -1,7 +1,7 @@
 name: Medium posts workflow
 on:
   schedule:
-    - cron: "0 5 * * MON"
+    - cron: "30 16 * * 6"
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
