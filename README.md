@@ -9,7 +9,6 @@ My experience spans from mobile to backend web development, working as a CCNA in
 * 🌍  I'm based in Slovenia
 * 🖥️  See my portfolio at [FlowCV](http://flowcv.me/peter-aleksander-bizjak)
 * ✉️  You can contact me at [peteralexbizjak@protonmail.com](mailto:peteralexbizjak@protonmail.com)
-* 🚀  I'm currently working on [Billender](http://billender.se)
 
 <a href="https://www.twitter.com/peteralexbizjak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/peteralexbizjak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
