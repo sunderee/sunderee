@@ -7,7 +7,7 @@ Mobile & Full-Stack Web Developer & Cybersecurity Expert
 My experience spans from mobile to backend web development, working as a CCNA instructor, and recently dipping into the cybersecurity field completing an EC-Council CEH certificate and more than 20 penetration tests for commercial clients around Slovenia. I combine both technical knowledge and people skills, where security is a primary concern in everything I do, and client satisfaction is the goal I strive for.
 
 * 🌍  I'm based in Slovenia
-* 🖥️  See my portfolio at [FlowCV](http://flowcv.me/peter-aleksander-bizjak)
+* 🖥️  Download my portfolio on my [website](https://sunderee.github.io/)
 * ✉️  You can contact me at [peteralexbizjak@protonmail.com](mailto:peteralexbizjak@protonmail.com)
 
 <a href="https://www.twitter.com/peteralexbizjak" target="_blank" rel="noreferrer"><img
